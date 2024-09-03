@@ -17,6 +17,13 @@ You were on your way home after buying some candy when you noticed a cat with sm
 Then you saw the mother cat walking down a path as if looking for something. Your curiosity led you to follow her,
 and now you find yourself in a maze. Can you reach the end?
 
+## Usage
+- Use the arrow keys to move the player (represented by 'H') through the maze.
+- The goal is to reach the milk (represented by 'M').
+- The maze is drawn in the console, and the player moves one step at a time.
+
 ## Screenshots
 ![Screenshot 2024-09-03 153701](https://github.com/user-attachments/assets/3e0cdf91-e25b-48a1-b3e7-6d52ffee5492)
 ![Screenshot 2024-09-03 153749](https://github.com/user-attachments/assets/c09f5d4f-1907-4f37-a09d-a30c17a6b074)
+
+
